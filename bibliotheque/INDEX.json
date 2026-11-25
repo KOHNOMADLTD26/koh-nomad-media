@@ -9,7 +9,8 @@
     "pov",
     "real"
    ],
-   "used": []
+   "used": [],
+   "categorie": "bangkok"
   },
   {
    "file": "visuels/2026-11-25-v02.jpg",
@@ -20,7 +21,8 @@
     "street",
     "mood"
    ],
-   "used": []
+   "used": [],
+   "categorie": "bangkok"
   },
   {
    "file": "visuels/2026-11-25-v03.jpg",
@@ -30,7 +32,8 @@
     "river",
     "travel"
    ],
-   "used": []
+   "used": [],
+   "categorie": "bangkok"
   },
   {
    "file": "visuels/2026-11-25-v04.jpg",
@@ -41,7 +44,8 @@
     "cafe",
     "morning"
    ],
-   "used": []
+   "used": [],
+   "categorie": "kl"
   },
   {
    "file": "visuels/2026-11-25-v05.jpg",
@@ -52,7 +56,8 @@
     "evening",
     "city"
    ],
-   "used": []
+   "used": [],
+   "categorie": "kl"
   },
   {
    "file": "visuels/2026-11-25-v06.jpg",
@@ -62,7 +67,8 @@
     "food",
     "street"
    ],
-   "used": []
+   "used": [],
+   "categorie": "bangkok"
   },
   {
    "file": "visuels/2026-11-25-v07.jpg",
@@ -72,7 +78,8 @@
     "food",
     "local"
    ],
-   "used": []
+   "used": [],
+   "categorie": "kl"
   },
   {
    "file": "visuels/2026-11-25-v08.jpg",
@@ -83,7 +90,8 @@
     "pov",
     "morning"
    ],
-   "used": []
+   "used": [],
+   "categorie": "kl"
   },
   {
    "file": "visuels/2026-11-25-v09.jpg",
@@ -93,7 +101,8 @@
     "market",
     "local"
    ],
-   "used": []
+   "used": [],
+   "categorie": "bangkok"
   },
   {
    "file": "visuels/2026-11-25-v10.jpg",
@@ -104,7 +113,8 @@
     "cafe",
     "mood"
    ],
-   "used": []
+   "used": [],
+   "categorie": "kl"
   },
   {
    "file": "visuels/2026-11-25-v11.jpg",
@@ -115,7 +125,8 @@
     "flatlay",
     "work"
    ],
-   "used": []
+   "used": [],
+   "categorie": "travail-cafe"
   },
   {
    "file": "visuels/2026-11-25-v12.jpg",
@@ -126,7 +137,8 @@
     "flatlay",
     "journal"
    ],
-   "used": []
+   "used": [],
+   "categorie": "travail-cafe"
   },
   {
    "file": "visuels/2026-11-25-v13.jpg",
@@ -137,7 +149,8 @@
     "flatlay",
     "work"
    ],
-   "used": []
+   "used": [],
+   "categorie": "travail-cafe"
   },
   {
    "file": "visuels/2026-11-25-v14.jpg",
@@ -147,7 +160,8 @@
     "beauty",
     "morning"
    ],
-   "used": []
+   "used": [],
+   "categorie": "travail-cafe"
   },
   {
    "file": "visuels/2026-11-25-v15.jpg",
@@ -157,7 +171,8 @@
     "flatlay",
     "passport"
    ],
-   "used": []
+   "used": [],
+   "categorie": "travail-cafe"
   },
   {
    "file": "visuels/2026-11-25-v16.jpg",
@@ -168,7 +183,8 @@
     "tropical",
     "flatlay"
    ],
-   "used": []
+   "used": [],
+   "categorie": "bien-etre-automne"
   },
   {
    "file": "visuels/2026-11-25-v17.jpg",
@@ -179,7 +195,8 @@
     "journal",
     "morning"
    ],
-   "used": []
+   "used": [],
+   "categorie": "kl"
   },
   {
    "file": "visuels/2026-11-25-v18.jpg",
@@ -189,7 +206,8 @@
     "breakfast",
     "treat"
    ],
-   "used": []
+   "used": [],
+   "categorie": "bien-etre-automne"
   },
   {
    "file": "visuels/2026-11-25-v19.jpg",
@@ -200,7 +218,8 @@
     "slow",
     "morning"
    ],
-   "used": []
+   "used": [],
+   "categorie": "bien-etre-automne"
   },
   {
    "file": "visuels/2026-11-25-v20.jpg",
@@ -211,7 +230,8 @@
     "slow",
     "cozy"
    ],
-   "used": []
+   "used": [],
+   "categorie": "bien-etre-automne"
   },
   {
    "file": "visuels/2026-11-25-v21.jpg",
@@ -221,6 +241,189 @@
     "summer",
     "koh-samui",
     "holiday"
+   ],
+   "used": [],
+   "categorie": "bien-etre-automne"
+  },
+  {
+   "file": "visuels/2026-11-25-v22.jpg",
+   "desc": "Boarding Pass USM teal tote bag, woman on a beach street, Koh Samui",
+   "categorie": "produit-boarding-pass",
+   "tags": [
+    "boarding-pass",
+    "tote",
+    "koh-samui",
+    "product"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v23.jpg",
+   "desc": "Boarding Pass Koh Samui notebook USM 002",
+   "categorie": "produit-boarding-pass",
+   "tags": [
+    "boarding-pass",
+    "notebook",
+    "koh-samui",
+    "product"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v24.jpg",
+   "desc": "Boarding Pass Kuala Lumpur notebook KUL 003 in a kopitiam",
+   "categorie": "produit-boarding-pass",
+   "tags": [
+    "boarding-pass",
+    "notebook",
+    "kl",
+    "product"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v25.jpg",
+   "desc": "latte, cinnamon roll, book and glasses on striped bed (camera grid visible: backup only, prefer v33)",
+   "categorie": "bien-etre-automne",
+   "tags": [
+    "slow-living",
+    "morning",
+    "cosy",
+    "autumn",
+    "reserve"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v26.jpg",
+   "desc": "iced coffee, croissant and newspaper in hand",
+   "categorie": "bien-etre-automne",
+   "tags": [
+    "slow-living",
+    "cafe",
+    "morning",
+    "autumn"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v27.jpg",
+   "desc": "laptop, iced coffee and cake on a cafe terrace",
+   "categorie": "travail-cafe",
+   "tags": [
+    "cafe",
+    "laptop",
+    "work",
+    "aesthetic"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v28.jpg",
+   "desc": "woman in white blazer working on laptop in a cafe (Pinterest overlay cropped)",
+   "categorie": "travail-cafe",
+   "tags": [
+    "cafe",
+    "laptop",
+    "work",
+    "focus"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v29.jpg",
+   "desc": "hand on brass cafe door handle, Petronas behind, KL",
+   "categorie": "kl",
+   "tags": [
+    "kl",
+    "cafe",
+    "arrival",
+    "pov"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v30.jpg",
+   "desc": "laptop on a KL terrace, Petronas view, banana bread",
+   "categorie": "kl",
+   "tags": [
+    "kl",
+    "cafe",
+    "laptop",
+    "work",
+    "view"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v31.jpg",
+   "desc": "Bangkok sketchbook in a cafe window, tuk-tuk outside",
+   "categorie": "bangkok",
+   "tags": [
+    "bangkok",
+    "cafe",
+    "sketch",
+    "creative"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v32.jpg",
+   "desc": "kaya toast and kopi in a KL kopitiam",
+   "categorie": "kl",
+   "tags": [
+    "kl",
+    "food",
+    "breakfast",
+    "local"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v33.jpg",
+   "desc": "latte, cinnamon roll and book in bed, morning light",
+   "categorie": "bien-etre-automne",
+   "tags": [
+    "slow-living",
+    "morning",
+    "cosy",
+    "autumn"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v34.jpg",
+   "desc": "two espressos on a rainy cafe terrace",
+   "categorie": "bien-etre-automne",
+   "tags": [
+    "rain",
+    "cafe",
+    "cosy",
+    "autumn"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v35.jpg",
+   "desc": "brown leather tote with laptop and cream cardigan",
+   "categorie": "bien-etre-automne",
+   "tags": [
+    "autumn",
+    "outfit",
+    "tote",
+    "laptop"
+   ],
+   "used": []
+  },
+  {
+   "file": "visuels/2026-11-25-v36.jpg",
+   "desc": "iced latte, croissant in tote, loafers on a street",
+   "categorie": "bien-etre-automne",
+   "tags": [
+    "autumn",
+    "outfit",
+    "cafe",
+    "street"
    ],
    "used": []
   }
@@ -260,5 +463,12 @@
    "desc": "cream editorial slide, big serif, highlighted word, orange asterisk (format to copy)"
   }
  ],
- "regle": "Bibliothèque permanente de ses contenus (elle supprime tout de son téléphone). Réutiliser chaque visuel plusieurs fois (2-3 semaines d'écart), noter chaque usage dans 'used'."
+ "regle": "Bibliothèque permanente de ses contenus (elle supprime tout de son téléphone). Réutiliser chaque visuel plusieurs fois (2-3 semaines d'écart), noter chaque usage dans 'used'.",
+ "categories": {
+  "bien-etre-automne": "slow living, cosy, autumn mood, wellbeing",
+  "travail-cafe": "laptop/cafe work, focus",
+  "kl": "Kuala Lumpur",
+  "bangkok": "Bangkok",
+  "produit-boarding-pass": "Boarding Pass collection (notebooks, tote bags)"
+ }
 }

@@ -9,7 +9,9 @@
     "pov",
     "real"
    ],
-   "used": [],
+   "used": [
+    "2026-11-25 reel bangkok-5-scenes"
+   ],
    "categorie": "bangkok"
   },
   {
@@ -21,7 +23,9 @@
     "street",
     "mood"
    ],
-   "used": [],
+   "used": [
+    "2026-11-25 reel bangkok-5-scenes"
+   ],
    "categorie": "bangkok"
   },
   {
@@ -32,7 +36,9 @@
     "river",
     "travel"
    ],
-   "used": [],
+   "used": [
+    "2026-11-25 reel bangkok-5-scenes"
+   ],
    "categorie": "bangkok"
   },
   {
@@ -44,7 +50,10 @@
     "cafe",
     "morning"
    ],
-   "used": [],
+   "used": [
+    "2026-11-29 reel kl-5-scenes",
+    "2026-12-03 carrousel kl-first-week"
+   ],
    "categorie": "kl"
   },
   {
@@ -56,7 +65,11 @@
     "evening",
     "city"
    ],
-   "used": [],
+   "used": [
+    "2026-11-29 reel kl-5-scenes",
+    "2026-12-02 reel kl-cafe-pov",
+    "2026-12-03 carrousel kl-first-week"
+   ],
    "categorie": "kl"
   },
   {
@@ -67,7 +80,9 @@
     "food",
     "street"
    ],
-   "used": [],
+   "used": [
+    "2026-11-25 reel bangkok-5-scenes"
+   ],
    "categorie": "bangkok"
   },
   {
@@ -78,7 +93,9 @@
     "food",
     "local"
    ],
-   "used": [],
+   "used": [
+    "2026-11-29 reel kl-5-scenes"
+   ],
    "categorie": "kl"
   },
   {
@@ -90,7 +107,10 @@
     "pov",
     "morning"
    ],
-   "used": [],
+   "used": [
+    "2026-11-29 reel kl-5-scenes",
+    "2026-12-03 carrousel kl-first-week"
+   ],
    "categorie": "kl"
   },
   {
@@ -101,7 +121,9 @@
     "market",
     "local"
    ],
-   "used": [],
+   "used": [
+    "2026-11-25 reel bangkok-5-scenes"
+   ],
    "categorie": "bangkok"
   },
   {
@@ -113,7 +135,10 @@
     "cafe",
     "mood"
    ],
-   "used": [],
+   "used": [
+    "2026-11-29 reel kl-5-scenes",
+    "2026-12-03 carrousel kl-first-week"
+   ],
    "categorie": "kl"
   },
   {
@@ -125,7 +150,10 @@
     "flatlay",
     "work"
    ],
-   "used": [],
+   "used": [
+    "2026-11-27 carrousel cafe-lock-in",
+    "2026-12-01 reel cafe-desk-day"
+   ],
    "categorie": "travail-cafe"
   },
   {
@@ -137,7 +165,10 @@
     "flatlay",
     "journal"
    ],
-   "used": [],
+   "used": [
+    "2026-11-27 carrousel cafe-lock-in",
+    "2026-12-01 reel cafe-desk-day"
+   ],
    "categorie": "travail-cafe"
   },
   {
@@ -149,7 +180,10 @@
     "flatlay",
     "work"
    ],
-   "used": [],
+   "used": [
+    "2026-11-27 carrousel cafe-lock-in",
+    "2026-12-01 reel cafe-desk-day"
+   ],
    "categorie": "travail-cafe"
   },
   {
@@ -160,7 +194,9 @@
     "beauty",
     "morning"
    ],
-   "used": [],
+   "used": [
+    "2026-12-01 reel cafe-desk-day"
+   ],
    "categorie": "travail-cafe"
   },
   {
@@ -171,7 +207,9 @@
     "flatlay",
     "passport"
    ],
-   "used": [],
+   "used": [
+    "2026-12-01 reel cafe-desk-day"
+   ],
    "categorie": "travail-cafe"
   },
   {
@@ -183,7 +221,9 @@
     "tropical",
     "flatlay"
    ],
-   "used": [],
+   "used": [
+    "2026-12-06 reel sunday-reset"
+   ],
    "categorie": "bien-etre-automne"
   },
   {
@@ -195,7 +235,9 @@
     "journal",
     "morning"
    ],
-   "used": [],
+   "used": [
+    "2026-12-02 reel kl-cafe-pov"
+   ],
    "categorie": "kl"
   },
   {
@@ -206,7 +248,10 @@
     "breakfast",
     "treat"
    ],
-   "used": [],
+   "used": [
+    "2026-11-26 reel slow-autumn-mornings",
+    "2026-11-27 carrousel cafe-lock-in"
+   ],
    "categorie": "bien-etre-automne"
   },
   {
@@ -218,7 +263,9 @@
     "slow",
     "morning"
    ],
-   "used": [],
+   "used": [
+    "2026-12-06 reel sunday-reset"
+   ],
    "categorie": "bien-etre-automne"
   },
   {
@@ -230,7 +277,9 @@
     "slow",
     "cozy"
    ],
-   "used": [],
+   "used": [
+    "2026-11-26 reel slow-autumn-mornings"
+   ],
    "categorie": "bien-etre-automne"
   },
   {
@@ -242,7 +291,9 @@
     "koh-samui",
     "holiday"
    ],
-   "used": [],
+   "used": [
+    "2026-12-06 reel sunday-reset"
+   ],
    "categorie": "bien-etre-automne"
   },
   {
@@ -255,7 +306,10 @@
     "koh-samui",
     "product"
    ],
-   "used": []
+   "used": [
+    "2026-11-28 carrousel boarding-pass",
+    "2026-11-28 story tote-usm"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v23.jpg",
@@ -267,7 +321,9 @@
     "koh-samui",
     "product"
    ],
-   "used": []
+   "used": [
+    "2026-11-28 carrousel boarding-pass"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v24.jpg",
@@ -279,7 +335,10 @@
     "kl",
     "product"
    ],
-   "used": []
+   "used": [
+    "2026-11-28 carrousel boarding-pass",
+    "2026-12-02 story notebook-kul"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v25.jpg",
@@ -304,7 +363,9 @@
     "morning",
     "autumn"
    ],
-   "used": []
+   "used": [
+    "2026-11-26 reel slow-autumn-mornings"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v27.jpg",
@@ -316,7 +377,9 @@
     "work",
     "aesthetic"
    ],
-   "used": []
+   "used": [
+    "2026-12-04 carrousel soft-productivity"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v28.jpg",
@@ -328,7 +391,9 @@
     "work",
     "focus"
    ],
-   "used": []
+   "used": [
+    "2026-12-04 carrousel soft-productivity"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v29.jpg",
@@ -340,7 +405,9 @@
     "arrival",
     "pov"
    ],
-   "used": []
+   "used": [
+    "2026-12-02 reel kl-cafe-pov"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v30.jpg",
@@ -353,7 +420,9 @@
     "work",
     "view"
    ],
-   "used": []
+   "used": [
+    "2026-12-02 reel kl-cafe-pov"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v31.jpg",
@@ -365,7 +434,9 @@
     "sketch",
     "creative"
    ],
-   "used": []
+   "used": [
+    "2026-12-06 reel sunday-reset"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v32.jpg",
@@ -377,7 +448,9 @@
     "breakfast",
     "local"
    ],
-   "used": []
+   "used": [
+    "2026-12-02 reel kl-cafe-pov"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v33.jpg",
@@ -389,7 +462,10 @@
     "cosy",
     "autumn"
    ],
-   "used": []
+   "used": [
+    "2026-11-26 reel slow-autumn-mornings",
+    "2026-11-26 story slow-morning"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v34.jpg",
@@ -401,7 +477,10 @@
     "cosy",
     "autumn"
    ],
-   "used": []
+   "used": [
+    "2026-11-26 reel slow-autumn-mornings",
+    "2026-12-04 story rainy-espresso"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v35.jpg",
@@ -413,7 +492,10 @@
     "tote",
     "laptop"
    ],
-   "used": []
+   "used": [
+    "2026-12-04 carrousel soft-productivity",
+    "2026-12-06 reel sunday-reset"
+   ]
   },
   {
    "file": "visuels/2026-11-25-v36.jpg",
@@ -425,7 +507,9 @@
     "cafe",
     "street"
    ],
-   "used": []
+   "used": [
+    "2026-12-04 carrousel soft-productivity"
+   ]
   }
  ],
  "videos": [
